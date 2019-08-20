@@ -1,0 +1,56 @@
+body,
+html {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #fab95b;
+}
+
+.content {
+  margin: 0 auto;
+  width: 400px;
+}
+
+h1 {
+  color: whitesmoke;
+  background-color: hotpink;
+  padding: 10px;
+  border: 3px solid aquamarine;
+  box-shadow: 5px 10px aquamarine;
+}
+
+h4 {
+  color: slategray;
+}
+
+table,
+td,
+th {
+  border: 1px solid hotpink;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 30px;
+}
+
+td {
+  text-align: center;
+  padding: 5px;
+}
+
+.form {
+  margin-top: 20px;
+}
+
+#content {
+  width: 70%;
+}
+
+a {
+  color: #f5564e;
+  text-decoration: none;
+}
